@@ -2,11 +2,11 @@ html{
      background-color: white;
 
    }
+   
 html nav {
     background-color: #333; 
     padding: 15px; 
   }
-
 
 .position-absolute {
     position: absolute;
@@ -72,8 +72,6 @@ html nav {
     color: #0B132A;
   }
 
-
-
   h1 {
   position: absolute;
   top: 150px;
@@ -94,6 +92,7 @@ html nav {
   color: #0B132A;
   width: 800px
 }
+
  ol{
   position: absolute;
   top: 300px;
@@ -116,7 +115,6 @@ dl{
   font-size: 30px;
   line-height: 100px;
   color: #0B132A;
-
 
 }
  ul{
