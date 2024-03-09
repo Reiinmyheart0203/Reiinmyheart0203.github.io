@@ -2,7 +2,7 @@ html{
      background-color: white;
 
    }
-   
+
 html nav {
     background-color: #333; 
     padding: 15px; 
@@ -117,6 +117,11 @@ dl{
   color: #0B132A;
 
 }
+
+    dl dd  {
+      margin-bottom: 780px; 
+    }
+
  ul{
   position: absolute;
   top: 300px;
