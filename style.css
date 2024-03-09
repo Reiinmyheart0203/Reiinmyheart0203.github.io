@@ -1,16 +1,134 @@
-html {
-  background-color: ghostwhite;
-  font-size: 20px;
+html{
+     background-color: white;
+
+   }
+html nav {
+    background-color: #333; 
+    padding: 15px; 
+  }
+
+
+.position-absolute {
+    position: absolute;
+    font-family: "Rubik", "serif";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4F5665;
+  }
+
+  .history {
+    width: 52px;
+    height: 19px;
+    top: 58px;
+    left: 600px;
+    text-decoration: none;
+  }
+
+  .series {
+    width: 66px;
+    height: 19px;
+    top: 58px;
+    left: 850px; 
+    text-decoration: none;
+  }
+
+  .recommendations {
+    width: 93px;
+    height: 19px;
+    top: 58px;
+    left: 1100px; 
+    text-decoration: none;
+  }
+
+  .best {
+    width: 46px;
+    height: 19px;
+    top: 58px;
+    left: 1420px; 
+    text-decoration: none;
+  }
+
+  .home {
+    width: 52px;
+    height: 19px;
+    top: 58px;
+    left: 600px;
+    text-decoration: none;
+  }
+
+  .the {
+    position: absolute;
+    width: 800px;
+    height: 140px;
+    left: 150px;
+    top: 220.77px;
+    font-family: "Helvetica","serif";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 100px;
+    color: #0B132A;
+  }
+
+
+
+  h1 {
+  position: absolute;
+  top: 150px;
+  left: 120px;
+  font-size: 60px ;
+
 }
 
-ul {
-  background: red;
-  padding: 10px;
-  border: 1px solid black;
+  h5 {
+  position: absolute;
+  top: 260px;
+  left: 65px;
+  font-size: 40px ;
+  font-family: "Helvetica","serif";
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100px;
+  color: #0B132A;
+  width: 800px
+}
+ ol{
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  font-family: 'Helvetica', "serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 100px;
+  color: #0B132A;
 }
 
-li {
-  margin-left: 20px;
+dl{
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  font-family: 'Helvetica', "serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 100px;
+  color: #0B132A;
 
+
+}
+ ul{
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  font-family: 'Helvetica', "serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 100px;
+  color: #0B132A;
+}
 
 }
